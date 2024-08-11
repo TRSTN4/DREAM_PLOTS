@@ -152,10 +152,12 @@ This preview section contains images, GIFs, and possible sound fragments from th
 
 ![DP_ASSET_STYLING](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/builder/DP_ASSET_STYLING.gif?raw=true)
 
-**PC**
+**PC:**
+
 ![pc_mouse_hints](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/builder/pc/pc_mouse_hints.png?raw=true)
 
-**Mobile**
+**Mobile:**
+
 ![mobile_build_menu](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/builder/mobile/mobile_build_menu.png?raw=true)
 
 ![mobile_build_menu_advanced](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/builder/mobile/mobile_build_menu_advanced.png?raw=true)
@@ -178,5 +180,8 @@ This preview section contains images, GIFs, and possible sound fragments from th
 
 ![mobile_build_menu_properties](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/builder/mobile/mobile_build_menu_properties.png?raw=true)
 
-## Music
-(DP_HOURLY_MUSIC)[https://github.com/TRSTN4/DREAM_PLOTS/raw/main/preview/music/DP_HOURLY_MUSIC.mp4]
+## Hourly Music
+***YouTube***: [Dream Plots Hourly Music](https://youtu.be/YsBQxXCS_i8)
+
+## Gameplay
+***YouTube***: [Dream Plots Gameplay](https://youtu.be/2UjVNzROFeI)
