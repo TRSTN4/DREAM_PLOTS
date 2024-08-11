@@ -58,3 +58,125 @@ These skills not only reflect the technical aspects of game development but also
 The decision to withhold the source code stems from the nature of Roblox game development. Open sourcing a Roblox game can inadvertently expose it to potential theft and server-side exploitation, compromising the game's integrity and player experience.
 
 My priority is to maintain a secure and enjoyable environment for all players, and thus, I've opted to keep the code private. This README aims to provide a clear understanding of the project's scope, objectives, and my personal contributions.
+
+# Preview
+
+This preview section contains images, GIFs, and possible sound fragments from the game.
+
+## Weather
+
+![DP_WEATHER_CLEAR](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/weather/DP_WEATHER_CLEAR.gif?raw=true)
+
+![DP_WEATHER_CLOUDY](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/weather/DP_WEATHER_CLOUDY.gif?raw=true)
+
+![DP_WEATHER_RAIN](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/weather/DP_WEATHER_RAIN.gif?raw=true)
+
+![DP_WEATHER_SNOW](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/weather/DP_WEATHER_SNOW.gif?raw=true)
+
+## Plot
+
+![DP_CANT_PLACE](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/plot/DP_CANT_PLACE.gif?raw=true)
+
+![DP_PLOT_CLOSED](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/plot/DP_PLOT_CLOSED.gif?raw=true)
+
+![DP_PLOT_MANAGE](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/plot/DP_PLOT_MANAGE.gif?raw=true)
+
+![DP_PLOT_PAINTING](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/plot/DP_PLOT_PAINTING.gif?raw=true)
+
+![DP_PLOT_RESET](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/plot/DP_PLOT_RESET.gif?raw=true)
+
+![DP_PLOT_WARPING](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/plot/DP_PLOT_WARPING.gif?raw=true)
+
+![DP_SLOT_SWAPING](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/plot/DP_SLOT_SWAPING.gif?raw=true)
+
+![DP_TEAM_BUILDING](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/plot/DP_TEAM_BUILDING.gif?raw=true)
+
+## Menus
+![DP_MARKET](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/menus/DP_MARKET.gif?raw=true)
+
+![DP_SETTINGS](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/menus/DP_SETTINGS.gif?raw=true)
+
+![DP_STATS](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/menus/DP_STATS.gif?raw=true)
+
+![DP_WELCOME](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/menus/DP_WELCOME.gif?raw=true)
+
+## Events
+![DP_EVENT_AURORA](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/events/DP_EVENT_AURORA.gif?raw=true)
+
+![DP_EVENT_FIREFLY_FESTIVAL](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/events/DP_EVENT_FIREFLY_FESTIVAL.gif?raw=true)
+
+![DP_EVENT_METEOR_SHOWER](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/events/DP_EVENT_METEOR_SHOWER.gif?raw=true)
+
+## Map
+![map1](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/map/map1.png?raw=true)
+
+![map2](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/map/map2.png?raw=true)
+
+![map3](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/map/map3.png?raw=true)
+
+![map4](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/map/map4.png?raw=true)
+
+## Building
+![DP_EDIT_ADVANCED_HEIGHT](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/building/DP_EDIT_ADVANCED_HEIGHT.gif?raw=true)
+
+![DP_EDIT_ADVANCED_X](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/building/DP_EDIT_ADVANCED_X.gif?raw=true)
+
+![DP_EDIT_ADVANCED_Y](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/building/DP_EDIT_ADVANCED_Y.gif?raw=true)
+
+![DP_EDIT_ADVANCED_Z](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/building/DP_EDIT_ADVANCED_Z.gif?raw=true)
+
+![DP_EDIT_COLLISION](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/building/DP_EDIT_COLLISION.gif?raw=true)
+
+![DP_EDIT_COPY](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/building/DP_EDIT_COPY.gif?raw=true)
+
+![DP_EDIT_DELETE](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/building/DP_EDIT_DELETE.gif?raw=true)
+
+![DP_EDIT_FLIP](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/building/DP_EDIT_FLIP.gif?raw=true)
+
+![DP_EDIT_INPUT_OFFSET](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/building/DP_EDIT_INPUT_OFFSET.gif?raw=true)
+
+![DP_EDIT_INPUT_ROTATION](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/building/DP_EDIT_INPUT_ROTATION.gif?raw=true)
+
+![DP_EDIT_INPUT_SIZE](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/building/DP_EDIT_INPUT_SIZE.gif?raw=true)
+
+![DP_EDIT_RESET](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/building/DP_EDIT_RESET.gif?raw=true)
+
+![DP_EDIT_RESIZE](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/building/DP_EDIT_RESIZE.gif?raw=true)
+
+![DP_EDIT_ROTATE](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/building/DP_EDIT_ROTATE.gif?raw=true)
+
+![DP_EDIT_SNAPPING](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/building/DP_EDIT_SNAPPING.gif?raw=true)
+
+## Builder
+![DP_ASSETS](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/builder/DP_ASSETS.gif?raw=true)
+
+![DP_ASSET_STYLING](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/builder/DP_ASSET_STYLING.gif?raw=true)
+
+**PC**
+![pc_mouse_hints](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/builder/pc/pc_mouse_hints.png?raw=true)
+
+**Mobile**
+![mobile_build_menu](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/builder/mobile/mobile_build_menu.png?raw=true)
+
+![mobile_build_menu_advanced](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/builder/mobile/mobile_build_menu_advanced.png?raw=true)
+
+![mobile_build_menu_advanced_height](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/builder/mobile/mobile_build_menu_advanced_height.png?raw=true)
+
+![mobile_build_menu_advanced_x](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/builder/mobile/mobile_build_menu_advanced_x.png?raw=true)
+
+![mobile_build_menu_advanced_y](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/builder/mobile/mobile_build_menu_advanced_y.png?raw=true)
+
+![mobile_build_menu_advanced_z](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/builder/mobile/mobile_build_menu_advanced_z.png?raw=true)
+
+![mobile_build_menu_manipulation](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/builder/mobile/mobile_build_menu_manipulation.png?raw=true)
+
+![mobile_build_menu_manipulation_flip](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/builder/mobile/mobile_build_menu_manipulation_flip.png?raw=true)
+
+![mobile_build_menu_manipulation_resize](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/builder/mobile/mobile_build_menu_manipulation_resize.png?raw=true)
+
+![mobile_build_menu_manipulation_rotate](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/builder/mobile/mobile_build_menu_manipulation_rotate.png?raw=true)
+
+![mobile_build_menu_properties](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/builder/mobile/mobile_build_menu_properties.png?raw=true)
+
+## Music
+(DP_HOURLY_MUSIC)[https://github.com/TRSTN4/DREAM_PLOTS/raw/main/preview/music/DP_HOURLY_MUSIC.mp4]
