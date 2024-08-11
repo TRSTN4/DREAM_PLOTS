@@ -63,6 +63,8 @@ My priority is to maintain a secure and enjoyable environment for all players, a
 
 This preview section contains images, GIFs, and possible sound fragments from the game.
 
+At the end of this section, you'll find a YouTube link to a gameplay video. Please note that this video showcases standard gameplay footage and may not cover all aspects of the game.
+
 ## Weather
 
 ![DP_WEATHER_CLEAR](https://github.com/TRSTN4/DREAM_PLOTS/blob/main/preview/weather/DP_WEATHER_CLEAR.gif?raw=true)
